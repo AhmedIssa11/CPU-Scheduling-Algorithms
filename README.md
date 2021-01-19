@@ -3,6 +3,6 @@
 Windows Application for simulate graph processes Scheduling in Operating System Support any number of prosesses in simmulate.
 
 ### Implementation of the following Scheduling Algorithms:
-- FCFS
-- SJF
+- First come first served (FCFS)
+- Shortest Job First Preemptive (SJF - pre)
 - Round Robin
